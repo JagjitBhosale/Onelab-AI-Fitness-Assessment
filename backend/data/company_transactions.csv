@@ -1,0 +1,118 @@
+transaction_id,transaction_date,amount,transaction_type,payment_status,merchant,settlement_ref,refund_ref,description
+TXN-442D6C6E,2026-11-13 15:22:13,808.31,transfer,settled,Myntra,STL-8A94D4B6,,Transfer to Myntra
+TXN-01165D6F,2026-11-02 15:32:13,4076.88,transfer,settled,Ola,STL-DBAC6200,,Transfer to Ola
+TXN-04BFE890,2026-11-19 05:57:45,1857.09,payment,settled,Zomato,STL-8AF0B6A6,,Payment with rounding difference #2
+TXN-86B339F8,2026-10-21 08:41:25,3351.93,payment,settled,Myntra,STL-2E68DB6A,,Payment to Myntra
+TXN-F11BF85C,2026-10-27 14:10:49,1042.10,payment,settled,Axis Bank,STL-A0057957,,Payment to Axis Bank
+TXN-F93C191B,2026-11-06 03:38:24,2296.84,payment,settled,SBI,STL-1AFBC849,,Payment to SBI
+TXN-81F32263,2026-10-30 09:19:46,431.73,payment,settled,Ola,STL-E25D1F19,,Payment with rounding difference #1
+TXN-F959AB6D,2026-11-17 10:00:48,565.54,transfer,settled,Paytm,STL-B6433638,,Transfer to Paytm
+TXN-DA4B6630,2026-11-16 08:54:47,863.98,transfer,settled,Airtel,STL-E5C0FBD0,,Transfer to Airtel
+TXN-E5052FA6,2026-10-06 07:57:37,168.60,refund,settled,ICICI Bank,STL-C6939EB1,,Refund to ICICI Bank
+TXN-025ECFE2,2026-10-08 13:12:56,2448.14,refund,settled,Paytm,STL-E2B0FD44,,Refund to Paytm
+TXN-164CCD73,2026-10-22 00:45:57,1131.24,payment,settled,Axis Bank,STL-E8FE2A1A,,Payment to Axis Bank
+TXN-CA621E2F,2026-11-21 00:14:11,2950.44,refund,settled,Jio,STL-B326C0DA,,Refund to Jio
+TXN-0F9CFB56,2026-10-18 12:13:40,1435.78,transfer,settled,SBI,STL-ADB8DD15,,Transfer to SBI
+TXN-A909E8F0,2026-11-10 20:16:40,1357.04,refund,settled,Spotify,STL-D5824BE2,,Refund to Spotify
+TXN-33BF9E17,2026-10-09 15:21:36,2686.07,payment,settled,Google Pay,STL-B0B43665,,Payment to Google Pay
+TXN-4D211F28,2026-11-19 10:32:10,3309.70,payment,settled,Paytm,STL-BF8D019F,,Payment to Paytm
+TXN-6D113174,2026-10-31 18:18:29,260.21,payment,settled,Flipkart,STL-CAA4CA83,,Payment to Flipkart
+TXN-C1DD5425,2026-11-09 13:10:00,4148.73,refund,settled,Swiggy,STL-6340F1A0,,Refund to Swiggy
+TXN-794CDD7A,2026-11-06 08:57:51,608.23,refund,settled,BookMyShow,STL-D1396717,,Refund to BookMyShow
+TXN-631B960A,2026-10-04 23:47:29,4320.55,refund,settled,Flipkart,STL-FD1F0610,,Refund to Flipkart
+TXN-6C5E4DE6,2026-11-20 17:13:13,2368.63,transfer,settled,PhonePe,STL-202F66C7,,Transfer to PhonePe
+TXN-143D5615,2026-10-09 12:42:25,2534.36,payment,settled,Paytm,STL-20152FF4,,Payment to Paytm
+TXN-674698EE,2026-11-04 15:35:48,1390.74,payment,completed,ICICI Bank,,,Unmatched transaction #3
+TXN-FEE0E4DA,2026-10-26 06:00:32,3398.92,transfer,settled,Uber,STL-6AC9B720,,Transfer to Uber
+TXN-7237B998,2026-11-21 03:58:42,3643.79,refund,settled,PhonePe,STL-65BFB5F6,,Refund to PhonePe
+TXN-E1077699,2026-11-12 20:11:32,2649.41,transfer,settled,Zomato,STL-A976B091,,Transfer to Zomato
+TXN-AC8D9387,2026-10-21 16:55:46,3037.24,transfer,settled,Airtel,STL-4981942F,,Transfer to Airtel
+TXN-95BBCCDE,2026-10-22 14:59:24,905.01,payment,settled,Google Pay,STL-91144FAD,,Payment to Google Pay
+TXN-FB898F21,2026-11-24 12:31:22,492.61,refund,settled,Flipkart,STL-89FF808B,,Refund to Flipkart
+TXN-0DD8D0C4,2026-11-11 00:12:06,1227.48,refund,settled,Jio,STL-914A9CE4,,Refund to Jio
+TXN-D8237016,2026-10-08 13:46:55,2302.53,transfer,settled,SBI,STL-57C10A2A,,Transfer to SBI
+TXN-C5500E2D,2026-10-07 12:52:37,1255.15,transfer,settled,BookMyShow,STL-B2FAD5F1,,Transfer to BookMyShow
+TXN-45F22E22,2026-11-11 16:42:22,4424.57,refund,settled,Google Pay,STL-FE5ECFEE,,Refund to Google Pay
+TXN-CC231409,2026-11-09 12:12:13,3322.63,transfer,settled,Paytm,STL-16FABB04,,Transfer to Paytm
+TXN-2B31B9EC,2026-11-05 19:37:24,1240.67,payment,settled,Axis Bank,STL-8F17D675,,Payment to Axis Bank
+TXN-B3F534FD,2026-11-03 22:05:07,833.98,transfer,settled,PhonePe,STL-EA928768,,Transfer to PhonePe
+TXN-7B577268,2026-10-22 04:45:46,229.99,refund,settled,Ola,STL-EB24135E,,Refund to Ola
+TXN-FF67AA27,2026-10-30 19:15:52,2983.48,refund,settled,SBI,STL-A6652CAE,,Refund to SBI
+TXN-769B5D25,2026-11-02 04:12:37,3034.98,refund,settled,Axis Bank,STL-4E3FA215,,Refund to Axis Bank
+TXN-D890263D,2026-10-22 22:41:18,4744.88,payment,settled,Zomato,STL-C9BA0D1A,,Payment to Zomato
+TXN-DD404095,2026-11-11 01:27:56,352.41,transfer,settled,Paytm,STL-3382EEA2,,Transfer to Paytm
+TXN-878641E3,2026-10-15 13:56:45,700.49,payment,settled,PhonePe,STL-479F372A,,Payment to PhonePe
+TXN-6F9D745E,2026-11-06 07:04:45,4431.82,refund,settled,HDFC Bank,STL-85849EF5,,Refund to HDFC Bank
+TXN-6B1DC9F8,2026-11-04 21:57:49,3740.10,transfer,settled,HDFC Bank,STL-1554BF7C,,Transfer to HDFC Bank
+TXN-6A37ACAE,2026-11-05 04:38:03,3489.07,refund,settled,Jio,STL-2AF1A8EA,,Refund to Jio
+TXN-04B3D3AE,2026-10-28 12:53:58,493.68,payment,settled,Jio,STL-C15A4A6E,,Payment to Jio
+TXN-7DB565EC,2026-11-23 00:32:14,4996.42,transfer,settled,Paytm,STL-672BB37E,,Transfer to Paytm
+TXN-151BAEEB,2026-11-28 14:30:00,973.56,payment,completed,Amazon,STL-BDF76E25,,Payment to Amazon - cross-month settlement
+TXN-D6D201FB,2026-11-06 11:27:25,1062.80,payment,settled,HDFC Bank,STL-496C8EEC,,Payment to HDFC Bank
+TXN-1054F3F0,2026-11-20 01:27:09,4495.92,refund,settled,PhonePe,STL-5E167563,,Refund to PhonePe
+TXN-ED9EF365,2026-10-24 05:52:54,1002.57,transfer,settled,BookMyShow,STL-E573BB91,,Transfer to BookMyShow
+TXN-744C67DB,2026-10-03 11:29:07,1152.95,payment,settled,Google Pay,STL-0AC74F41,,Payment to Google Pay
+TXN-A995FEEE,2026-10-26 13:10:47,4490.14,refund,settled,Uber,STL-4D535BAC,,Refund to Uber
+TXN-1C122A9C,2026-10-14 12:15:18,1396.58,refund,settled,Swiggy,STL-AB5CAFEF,,Refund to Swiggy
+TXN-DFBFBEE8,2026-10-13 14:30:27,128.09,payment,settled,Google Pay,STL-2FCCDB13,,Payment to Google Pay
+TXN-31617E9D,2026-11-07 20:34:45,2101.93,payment,settled,Google Pay,STL-143C82F5,,Payment to Google Pay
+TXN-C2510168,2026-11-04 04:34:43,4890.14,payment,settled,HDFC Bank,STL-A2664D17,,Payment to HDFC Bank
+TXN-E31E96B6,2026-11-14 18:51:29,887.67,payment,settled,Flipkart,STL-BE12809D,,Payment to Flipkart
+TXN-F57802B6,2026-11-17 07:10:25,3437.42,transfer,settled,Jio,STL-15B0E7FD,,Transfer to Jio
+TXN-22370390,2026-11-13 06:20:10,4702.41,transfer,settled,Myntra,STL-2CF4770F,,Transfer to Myntra
+TXN-294BA125,2026-11-21 04:24:26,1633.21,payment,completed,BigBasket,,,Unmatched transaction #2
+TXN-54CC0785,2026-10-25 09:39:20,1901.08,payment,settled,Netflix,STL-AE33D029,,Payment to Netflix
+TXN-20DF30FF,2026-10-30 12:43:50,1005.87,payment,settled,Paytm,STL-1F15A4AC,,Payment to Paytm
+TXN-73BC6170,2026-10-31 22:15:20,1231.76,payment,settled,Airtel,STL-3E976961,,Payment to Airtel
+TXN-26241D9D,2026-10-20 16:38:49,3361.73,payment,settled,Swiggy,STL-1A982A65,,Payment to Swiggy
+TXN-21D12877,2026-11-14 07:19:25,3778.77,transfer,settled,Myntra,STL-13BE7E90,,Transfer to Myntra
+TXN-8498F586,2026-10-30 23:08:40,1906.83,payment,settled,Ola,STL-E21113F6,,Payment to Ola
+TXN-ECB35E31,2026-11-02 03:52:27,3812.19,transfer,settled,ICICI Bank,STL-252704FE,,Transfer to ICICI Bank
+TXN-84A495CE,2026-11-06 13:39:52,1778.19,payment,settled,PhonePe,STL-09F4BD7A,,Payment with rounding difference #3
+TXN-D04F65F3,2026-11-13 19:51:22,3684.99,payment,settled,Axis Bank,STL-ED2FFD09,,Payment to Axis Bank
+TXN-9C8B208E,2026-10-18 12:47:05,4834.78,payment,settled,SBI,STL-37151A8C,,Payment to SBI
+TXN-0D4BC2D7,2026-11-08 15:49:19,200.90,refund,settled,Spotify,STL-12365994,,Refund to Spotify
+TXN-2A2DEC3E,2026-11-05 21:40:47,3341.21,refund,settled,Airtel,STL-D7B069D7,,Refund to Airtel
+TXN-6A6F5929,2026-10-14 16:33:18,1901.73,refund,settled,Spotify,STL-36A21177,,Refund to Spotify
+TXN-445CAF91,2026-11-15 22:58:39,45.88,payment,settled,Paytm,STL-ECC34C94,,Payment to Paytm
+TXN-9DE50927,2026-11-16 20:14:05,3485.99,refund,settled,Uber,STL-B49217C9,,Refund to Uber
+TXN-F5DE59C5,2026-11-06 02:52:02,1211.95,payment,settled,HDFC Bank,STL-1D087C6F,,Payment to HDFC Bank
+TXN-DB10B738,2026-11-14 05:25:36,4725.80,payment,settled,BigBasket,STL-AC8FA74C,,Payment to BigBasket
+TXN-45098FA4,2026-10-11 16:31:10,1474.57,payment,settled,Google Pay,STL-FD81917A,,Payment to Google Pay
+TXN-102EBFAC,2026-10-16 09:59:52,2428.14,transfer,settled,Swiggy,STL-CEA9DE61,,Transfer to Swiggy
+TXN-D4398A66,2026-10-28 04:38:24,2767.10,transfer,settled,Netflix,STL-63D46590,,Transfer to Netflix
+TXN-C13ED110,2026-10-13 23:39:41,142.41,transfer,settled,Paytm,STL-AC7611CC,,Transfer to Paytm
+TXN-FC2A5252,2026-10-31 07:46:56,2038.01,payment,settled,Flipkart,STL-5A400C91,,Payment to Flipkart
+TXN-BF6892CD,2026-10-12 02:29:41,409.76,transfer,settled,Paytm,STL-264C3B4A,,Transfer to Paytm
+TXN-2E7EE2AC,2026-11-21 07:15:00,1558.99,transfer,settled,Amazon,STL-60977802,,Transfer to Amazon
+TXN-1D63B90C,2026-10-26 21:33:00,2675.28,transfer,settled,Swiggy,STL-1349BF5A,,Transfer to Swiggy
+TXN-8221FBF4,2026-10-08 09:30:37,4696.79,refund,settled,Axis Bank,STL-7E551794,,Refund to Axis Bank
+TXN-045B0817,2026-11-01 01:03:24,1371.95,payment,settled,Spotify,STL-555BF870,,Payment to Spotify
+TXN-B40CF289,2026-10-22 19:45:21,2080.19,payment,settled,Jio,STL-41F12D00,,Payment to Jio
+TXN-64B331F0,2026-10-07 20:08:32,1329.68,payment,settled,Google Pay,STL-094719F6,,Payment to Google Pay
+TXN-869F25D2,2026-11-01 07:48:00,1399.60,payment,settled,Axis Bank,STL-B1E11873,,Payment to Axis Bank
+TXN-0F01B508,2026-11-12 09:43:13,1782.80,refund,settled,BookMyShow,STL-4015FEDA,,Refund to BookMyShow
+TXN-C0469F4C,2026-10-29 18:50:39,3252.89,transfer,settled,Zomato,STL-C621186F,,Transfer to Zomato
+TXN-2F3B9795,2026-10-05 16:08:02,1256.53,refund,settled,Flipkart,STL-D9D50F47,,Refund to Flipkart
+TXN-BE214881,2026-11-25 16:48:35,2148.78,transfer,settled,Flipkart,STL-C16E7C6F,,Transfer to Flipkart
+TXN-CB633F23,2026-11-15 15:52:34,1281.07,payment,settled,ICICI Bank,STL-ADD0B98E,,Payment to ICICI Bank
+TXN-F3BF6E1A,2026-11-04 01:53:46,106.72,refund,settled,Paytm,STL-DB303B25,,Refund to Paytm
+TXN-15BDB157,2026-11-09 05:32:53,4197.75,payment,settled,Uber,STL-D0ECCE8E,,Payment to Uber
+TXN-0B2EC5BF,2026-11-24 01:50:58,2447.77,transfer,settled,Jio,STL-1EFC78B2,,Transfer to Jio
+TXN-394348F2,2026-11-15 15:34:17,2214.76,transfer,settled,Zomato,STL-1317E768,,Transfer to Zomato
+TXN-7A76414F,2026-10-23 10:52:19,2390.13,refund,settled,Jio,STL-C9FE0C0B,,Refund to Jio
+TXN-05259581,2026-10-07 13:55:40,3939.00,payment,settled,HDFC Bank,STL-E6E63A8C,,Payment to HDFC Bank
+TXN-F22A6B72,2026-11-02 11:15:38,4501.23,transfer,settled,Spotify,STL-B4389589,,Transfer to Spotify
+TXN-9976B0D2,2026-11-25 12:01:49,4528.05,payment,settled,ICICI Bank,STL-8DB44313,,Payment to ICICI Bank
+TXN-35721F46,2026-10-31 06:10:41,1076.37,transfer,settled,Netflix,STL-17235EDB,,Transfer to Netflix
+TXN-194352BE,2026-10-16 05:54:59,781.22,transfer,settled,Jio,STL-D8B4C2C7,,Transfer to Jio
+TXN-7F82BE8E,2026-10-29 09:26:12,4308.86,transfer,settled,Google Pay,STL-494C5C6F,,Transfer to Google Pay
+TXN-1BB82AD7,2026-10-08 19:33:01,3404.61,payment,settled,Spotify,STL-347911F0,,Payment to Spotify
+TXN-27802E4A,2026-10-29 19:46:40,1432.09,refund,settled,BookMyShow,STL-886A4FBF,,Refund to BookMyShow
+TXN-0FA7CC77,2026-11-18 01:42:55,2472.64,transfer,settled,Uber,STL-8C3C49BC,,Transfer to Uber
+TXN-5B11B6F7,2026-11-24 04:25:06,1253.50,transfer,settled,Uber,STL-0C109CD0,,Transfer to Uber
+TXN-B3D2E983,2026-11-15 12:29:02,3028.10,refund,settled,Google Pay,STL-7BF651AB,,Refund to Google Pay
+TXN-A45F35CE,2026-11-23 15:20:55,1398.50,refund,settled,Swiggy,STL-4FBE55CB,,Refund to Swiggy
+TXN-DE19BCD7,2026-10-16 03:42:36,1454.95,transfer,completed,BookMyShow,,,Unmatched transaction #1
+TXN-B4D60E28,2026-10-20 10:26:46,4170.29,transfer,settled,Jio,STL-7B667A2C,,Transfer to Jio
+TXN-049F2680,2026-10-04 21:05:14,1490.57,payment,settled,Spotify,STL-47E6DBF9,,Payment to Spotify
